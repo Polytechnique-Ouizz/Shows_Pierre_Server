@@ -55,3 +55,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Twitter Bootstrap
 gem 'twitter-bootstrap-rails'
+
+#Cross Domain
+gem 'rack-cors', :require => 'rack/cors'
